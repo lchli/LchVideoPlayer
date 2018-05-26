@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lch_vp_error_unknown">播放失败,请检查网络</string>
+    <string name="lch_vp_error_server_died">服务器错误</string>
+    <string name="lch_vp_error_not_valid">无效</string>
+    <string name="lch_vp_error_io">IO错误</string>
+    <string name="lch_vp_error_malformed">格式错误</string>
+    <string name="lch_vp_error_unsupported">不支持格式</string>
+    <string name="lch_vp_error_timeout">播放超时</string>
+    <string name="lch_vp_error_exception">播放异常</string>
+
+    <dimen name="lch_vp_media_ic_size">40dp</dimen>
+    <dimen name="lch_vp_media_ic_h_margin">15dp</dimen>
+
+
+</resources>
