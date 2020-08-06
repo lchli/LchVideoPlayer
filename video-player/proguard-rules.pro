@@ -20,6 +20,6 @@
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
 # ijkplayer
--keep class tv.danmaku.ijk.media.player.** { ; }
+-keep class tv.danmaku.ijk.media.player.** { *;}
 -dontwarn tv.danmaku.ijk.media.player.*
 -keep interface tv.danmaku.ijk.media.player.** { *; }
